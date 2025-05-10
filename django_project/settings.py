@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'whitenoise.runserver_nostatic',
-    'django.contrib.staticfiles',
+    
 ]
 REST_FRAMEWORK = {
     "DEFAULT_PERMISSION_CLASSES":[
